@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 
 newbiehere
+=======
+newZ
+>>>>>>> 773e8303bab7e3c5335ab39e6a530492097786cf
+baraku
